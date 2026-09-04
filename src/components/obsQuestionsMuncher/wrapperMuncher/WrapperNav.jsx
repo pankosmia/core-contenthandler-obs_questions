@@ -1,7 +1,6 @@
 import { useState, useContext } from "react";
 import { BurritoSelect } from "./BurritoSelect";
 import { Box } from "@mui/material";
-import { getFirstChapter } from "./findFirstChapter";
 import ObsNavigation from "./ObsNavigation";
 export function WrapperNav({ flavor, obs, setObs }) {
   return (

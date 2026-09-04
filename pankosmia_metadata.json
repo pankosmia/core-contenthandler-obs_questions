@@ -1,5 +1,5 @@
 {
-  "id": "core-contenthandler_obs_notes",
+  "id": "core-contenthandler_obs_questions",
   "exclude_from_menu": true,
   "exclude_from_dashboard": true,
   "minServerVersion": "0.12.14",
@@ -7,31 +7,13 @@
     "net": false,
     "debug": true
   },
-  "endpoints": {
-    "textStories": {
-      "create_document": [
-        {
-          "doc": "Create a document for OBS",
-          "label": "pages:core-contenthandler_obs_notes:create_content_obs",
-          "url": "/createDocument/obsContent"
-        }
-      ],
-      "about_repo": [
-        {
-          "doc": "About repo translationNotes document",
-          "label": "pages:content:about_repo",
-          "url": "/aboutRepo?repoPath=%%REPO_PATH%%"
-        }
-      ]
-    }
-  },
 
   "i18n": {
     "title": {
-      "en": "core-contenthandler_obs_notes"
+      "en": "core-contenthandler_obs_questions"
     },
     "summary": {
-      "en": "core-contenthandler_obs_notes"
+      "en": "core-contenthandler_obs_questions"
     },
     "stub_content": {
       "en": "Content goes here"

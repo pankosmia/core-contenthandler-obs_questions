@@ -1,14 +1,14 @@
-# pankosmia-obs_notes-muncher
+# pankosmia-obs_questions-muncher
 
 `pankosmia-obs-muncher` provides reusable OBS-flavored muncher components for the Pankosmia ecosystem.
 
 This package contains a set of focused UI tools that can be integrated into Pankosmia clients when OBS (Open Bible Stories) editing or visualization capabilities are needed.
 
-> **Note:** This package does not contain everything available inside `pankosmia/core-contenthandler_obs_notes`. It only exposes reusable components that may or may not be used by other Pankosmia clients.
+> **Note:** This package does not contain everything available inside `pankosmia/core-contenthandler_obs_questions`. It only exposes reusable components that may or may not be used by other Pankosmia clients.
 
 ## Component
 
-### `OBSNotesViewerMuncher`
+### `obsQuestionsViewerMuncher`
 
 A component that allows users to view an OBS (Open Bible Stories) document.
 
@@ -26,7 +26,7 @@ Included:
 
 Not included:
 
-- The complete `pankosmia/core-contenthandler_obs_notes` application
+- The complete `pankosmia/core-contenthandler_obs_questions` application
 - Application-specific features
 - Internal tools that are not intended for reuse
 
