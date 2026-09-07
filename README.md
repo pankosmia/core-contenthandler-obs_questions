@@ -1,3 +1,3 @@
-# core-contenthandler_obs_questions
+# core-contenthandler-obs_questions
 
-core-contenthandler_obs_questions
+core-contenthandler-obs_questions

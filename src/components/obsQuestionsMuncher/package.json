@@ -2,7 +2,7 @@
   "name": "pankosmia-obs_questions-muncher",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/pankosmia/core-contenthandler_obs_questions",
+  "homepage": "https://github.com/pankosmia/core-contenthandler-obs_questions",
   "main": "munchersPackageExport/obs-questions-muncher-rcl.umd.js",
   "module": "munchersPackageExport/obs-questions-muncher-rcl.es.js",
   "files": [
